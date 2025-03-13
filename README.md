@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aliarfeen
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Flutter
 - 📫 How to reach me >>>https://www.linkedin.com/in/ali-hesham-arfeen/<<<
 
 <!---
