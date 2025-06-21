@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ali Arfeen
+# 👋 Hi there, I'm Ali Hesham
 
 ### 🧠 Frontend Developer | 🎮 Creative Coder | 🧰 Code Artisan
 
@@ -20,20 +20,7 @@ I build web and cross-platform apps with clean code and a touch of personality.
 
 ---
 
-### 🚀 What I'm Working On
-
-- 🔨 Building a slick **E-commerce app** with Flutter, Dio, and Clean Architecture  
-- 🧠 Leveling up backend skills with **Node.js**
-- 🌐 Making my **personal portfolio** more interactive & responsive
-
----
-
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ali-hesham-arfeen/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox)]([https://your-portfolio.com](https://alihesham.vercel.app/))  
-
----
-
-### 🌀 "Code like you mean it."
-
