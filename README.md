@@ -28,7 +28,6 @@ I’m passionate about building scalable, user-friendly applications for the web
 ### Databases  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/>
 </p>
 
 ### Cross-Platform & Mobile  
@@ -37,6 +36,7 @@ I’m passionate about building scalable, user-friendly applications for the web
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30" height="30"/>
 </p>
+
 ---
 
 ### 📫 Let's Connect!
